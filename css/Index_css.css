@@ -1,0 +1,26 @@
+
+
+body{
+    background: url("../assets/FONDO PREGUNTADOS.png");
+	background-size: 100%;
+}
+
+button{
+	background-color: white;
+	width: 10%;
+	height: 15%;
+	color: black;
+	border: solid 5px;
+	border-color: #1A2E35;
+  	border-radius: 15px;
+	font-size: 30px;
+}
+
+.imagen { 
+	width: 20%;
+	margin-left: 20px;
+	background-color: white;
+	border-radius: 10px;
+	border: solid 5px;
+	border-color: #1A2E35;
+}
